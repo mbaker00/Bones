@@ -29,6 +29,8 @@ The following records are only part of those available in Mulenberg County. Ther
 
 
 ==== 1811 Muhlenberg County Tax Lists
+{H1}
+
 [%autowidth,options="header"]
 |=====
 |Name|1st|2nd|3rd|County|Water|Ent|Sur|Pat|WM>21|B>16| B | H
@@ -37,6 +39,7 @@ The following records are only part of those available in Mulenberg County. Ther
 
 ---
 ==== 1812 John Bone deed from Joshua Cates - 200 Acres
+{H1}
 
 .Deed Book 3, Pg. 201-202, 1812-03-04*
 This indenture made this fourth day of March in the year of our Lord one thousand eight hundred and twelve between Joshua Cates and Ustatia his wife of the county of Christian and state of Kentucky of the one part and John Bone of Muhlenberg County and state aforesaid of the other part Witnesseth that the said Joshua Cates & Ustatia his wife for and in consideration of the sum of two hundred and fifty dollars to them in hand paid the receipt whereof they do hereby acknowledge they have granted bargained and sold and by these presents do grant bargain and sell unto the said John Bone and his heirs and assigns forever a certain tract or parcel of land containing two hundred acres by survey bearing date the 14^th day of May, 1799 which was granted to said Cates by virtue of a certificate No. 3104 by the Commissioners lying in Muhlenberg on waters of Pond River North of Jarralds Creek and bounded as follows (to wit) Beginning at a stake about ten poles above his improvements thence West two hundred and forty eight poles to a white oak thence South one hundred and thirty poles to a black oak; thence East two hundred and forty eight poles to a beech thence North one hundred and thirty poles to the Beginning with the appurtenances to the only proper use and benefit of him the said John Bone and his heirs forever to have and to hold the said tract of land with all and singular the appurtenances thereunto belonging or in anywise appertaining and the said Joshua Cates and Ustatia his wife for themselves their Heirs etc. doth hereby covenant and agree to and with the said John Bone his Heirs etc. that they the said Joshua and Ustatia his wife will warrant and forever defend the aforesaid tract or parcel of land from the claim or claims of them the said Joshua and Ustatia his wife his Heirs etc. and the said Joshua & Ustatia his wife warrant
@@ -69,6 +72,7 @@ The microfilm copy at FamilySearch.org is mostly unreadable.
 
 ---
 ==== 1813 Muhlenberg County Tax Lists
+{H1}
 
 [%autowidth,options="header"]
 |=====
@@ -96,19 +100,19 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSTN-KSFT-Z?i=414&cat=116364[Vi
 ==== 1813 John Bone Circuit Court Order
 
 .Book 2, Pg 415, 1813-12-13
-An Instrument of writing purporting to be the Freedom of Jack Jones a man of Colour the property of John Bone Esquire from the said John Bone was Exhibited into court by the said Parties aforesaid and acknowledged by the said Bone a party thereto, to be his act and Deed, which being examined by the court is Ordered to be recorded.
+An Instrument of writing purporting to be the Freedom of Jack Jones a man of Colour the property of *John Bone* Esquire from the said John Bone was Exhibited into court by the said Parties aforesaid and acknowledged by the said Bone a party thereto, to be his act and Deed, which being examined by the court is Ordered to be recorded.
 
 ---
 ==== 1813 John Bone Circuit Court Order
 
 .Book 2, Pg 415, 1813-12-13
-Ordered that William Martin John Bone, John Hill and Hutson Martin, (or any three of them being first sworn view and mark out the best and most convenient way for a road to lead from Greenville to David Campbells mill on Jarrels Creek and report thereof as the law directs
+Ordered that William Martin *John Bone*, John Hill and Hutson Martin, (or any three of them being first sworn view and mark out the best and most convenient way for a road to lead from Greenville to David Campbells mill on Jarrels Creek and report thereof as the law directs
 
 ---
 ==== 1813 John Bone Circuit Court Order
 
 .Book 2, Pg 461, 1814-10-10
-Ordered that John Bone be and he is hereby exempt in future from paying County levies for an old infirmed Negro woman by the name of Dinah which is Ordered to be certified to the sheriff of this County.
+Ordered that *John Bone* be and he is hereby exempt in future from paying County levies for an old infirmed Negro woman by the name of Dinah which is Ordered to be certified to the sheriff of this County.
 
 ---
 ==== 1814 Catherine Adams Bone named in fathers will

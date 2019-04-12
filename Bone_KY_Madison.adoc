@@ -1,27 +1,24 @@
 :icons: font
-
+:H: image:H.svg[]
+:H1: image:H1.svg[]
+:H2: image:H2.svg[]
+:A4: image:A4.svg[]
 
 == Bone Surname in Madison County Kentucky
 === Introduction Madison County
 
-Below I have collected records primarily from Madison County, Kentucky, pertaining to the Bone Surname in early county records.
-There are two or more John Bone adults in these early Madison County records given they are listed separately in tax lists and on a few occasions with a distinguishing suffix.
-It is very useful to refer to various Bone individuals based on their classification in Dr. Robert G. Bone's 1972 book. The families that follow are found in Chart H and likely Chart A.
-In that case, these two John Bones would have been 2nd cousin.
+Below I have collected records primarily from Madison County, Kentucky, pertaining to the Bone Surname in early county records. There are two or more John Bone adults in these early Madison County records given they are listed separately in tax lists and on a few occasions with a distinguishing suffix. It seems useful to refer to various Bone individuals based on their classification in Dr. Robert G. Bone's 1972 history. The families that follow are found in Chart H and likely those in Chart A. In that case and if Dr. Bone's tree of early Bones is correct, these two John Bones were probably 2nd cousin. Other Bone's in these records are William, Thomas
 
-==== John Bone (1762 PA - 1842 KY) and Hugh Bone
-One John Bone (1762-1842 Chart H, H1), of most interest to me, is the John Bone who first married Jane Hill and later married Catherine Adams.
-He is supposed to be the son of Thomas Bone (H) and Mary McCreary.
-He is once listed as John Bone Jr in a tax record.
-This John Bone (H1) purchased his property from Robert Adams on Silver Creek, part of 500 acres that included the mouth of Taylors Branch.
-Robert Adams property conflicted with several adjacent land claims and court cases regarding this property continued into the 1820s, affecting John Bone (H1), even after moving to Muhlenberg County, Kentucky.
+It is unfortunate that Dr. Bone and the family historians researching the Bone family supplying him material seemed unaware of much of the Madison County, Kentucky records. Occasionally they are included in the research, but the extent of at least two branches of the family living significant years at this location seems to have been unknown. Had these records been know before the publication, I think many errors would have been avoided and a different timeline and relationships would have resulted. There are many Bone descendants who are listed in print and online genealogies as being born in Wilson County, TN, whose family where actually living in Madison County, Kentucky, at the time of their birth.
+
+==== John Bone (1762 PA - 1842 KY) and Hugh Bone (1764 PA - 1846 KY)
+*John Bone* (1762-1842 Chart H, H1), of most interest to me, is the John Bone, son of Thomas Bone, who first married Jane Hill and later married Catherine Adams. He is supposed to be the son of Thomas Bone (H) and Mary McCreary. He first appears in this county in 1789, matching the timeline he gives in his pension application for service in the revolutionary ware. For several years he appears to be the only John Bone in the county records. He is once listed as John Bone Jr in a tax record. This John Bone (H1) purchased his property from Robert Adams on Silver Creek, part of 500 acres that included the mouth of Taylors Branch. Robert Adams property conflicted with several adjacent land claims and court cases regarding this property continued into the 1820s, affecting John Bone (H1), even after moving to Muhlenberg County, Kentucky.
 This location is easily found within current day Madison County, Kentucky.
-Based on some online genealogies, that I'm not able to validate, Catherine may be the sister of the Robert Adams who sold the property to John Bone while he was married to Jane Hill.
-It seems Robert Adams and many of his family later moved to Christian County, Kentucky, which contributed to part of modern Hopkins County and Muhlenberg County.
+Based on some online genealogies, that I'm not able to validate, Catherine may be the sister of the Robert Adams who sold the property to John Bone while he was married to Jane Hill. It seems Robert Adams and many of his family later moved to Christian County, Kentucky, which contributed to part of modern Hopkins County and Muhlenberg County.
 The Adams family move occurred while John Bone still lived in Madison County.
 In 1808 John Bone married Catherine Adams in Christian County.
 The location of his second wife's family in Western Kentucky before him likely explains why, while still living in Madison County, he married in Christian County then He and his new wife returned to Madison until their final move to Muhlenberg County in 1810.
-This move would have put John and Catherine both near her family and John at least near his brother and in-laws. Matthew Adams, supposedly brother to Catherine Adams, is bondsman on the marriage certificate of John Bone to Catherine Adams in Christian County, Kentucky, in 1808. John Bone appears to have lost the majority of his land holding due to the aforementioned land disputes. Some of this timeline is directly supported by John Bone's pension application submitted while living in Muhlenberg County Kentucky. John Bone died about 1842. Prior publications and online genealogies have cited an 1832 death date for John Bone which appears clearly a mistake given the pension records and county records.
+This move would have put John and Catherine both near her family and John at least near his in-laws and eventually near his brother or other relatives. Matthew Adams, supposedly brother to Catherine Adams, is bondsman on the marriage certificate of John Bone to Catherine Adams in Christian County, Kentucky, in 1808. John Bone appears to have lost the majority of his land holding due to the aforementioned land disputes. Some of this timeline is directly supported by John Bone's pension application submitted while living in Muhlenberg County Kentucky. John Bone died about 1842. Prior publications and online genealogies have cited an 1832 death date for John Bone which appears clearly a mistake given the pension records and county records.
 
 The following is a proposed timeline from Madison County for John Bone born in York County, PA in 1762 and who died in Muhlenberg County, KY, in 1842:
 
@@ -58,7 +55,7 @@ The following is a proposed timeline from Madison County for John Bone born in Y
  * 1822 John Bone continues legal disputes with Green Clay over land lost in Madison County.
 
 
-*Hugh Bone* (H2) found in these records, based on a reliable appearing genealogies by others, is the second son of Thomas Bone (H) previously mentioned and brother to John Bone (H1). Hugh Bone (H2) is found in the Madison County records from 1795 through 1802. Hugh Bone and his wife Mary sell their 100 acres, purchased from Joseph Kennedy in 1795, in 1802. So, he seems to have preceded his brother's move toward Western Kentucky by about 8 years spending some years in Tennessee before arriving back in Kentucky.
+*Hugh Bone* (H2) found in these records, based on a reliable appearing genealogies by others, is the second son of Thomas Bone (H) previously mentioned and brother to John Bone (H1). Hugh Bone (H2) is found in the Madison County records from 1795 through 1802. In 1802 Hugh Bone and his wife Mary sell their 100 acres purchased from Joseph Kennedy in 1795. Hugh and family make their way to Wilson County, Tennessee, in 1803. Here again is an example where the history of this branch of the family is incorrect in Dr. Bone's publication. Thomas Bone (H) and his children are frequently described as moving from Iredell County, NC, to Wilson County, TN, when instead they moved to Madison County, KY and lived there many years before moving to TN or some seem never to have moved through TN. While Hugh's brother John moved to Muhlenberg County in Western Kentucky about 1810 or 1811, Hugh and family lived many years in Wilson County, Tennessee, before also moving to Western Kentucky. Hugh Bone and his family settled in Hopkins County, adjacent to Muhlenberg County.
 
 * Iredell County, NC
 ** 1788-09-05 Hugh Bone from D. Boyd 210 acres
@@ -74,24 +71,31 @@ The following is a proposed timeline from Madison County for John Bone born in Y
 ** 1801-03-08 Hugh Bone listed in tax list 100 acres
 ** 1802-04-13 Hugh Bone listed in tax list 100 acres
 ** 1802-xx-xx Hugh Bone to A. Province 100 acres
+* Wilson County, TN
+** 1804-xx-xx Hugh Bone listed in tax list 0 acres
+** 1804-11-27 Hugh Bone from James Scott 88 acres
+** 1808-12-23 Hugh Bone 17.5 acres land grant
 
-The link between brothers John and Hugh Bone to father Thomas Bone and other family members is supported by a letter written by Hugh Bone's grandson to a cousin c. 1885. In this letter he gives account of the children of Thomas Bone and some of their descendants to the cousin researching the family tree. See Transcription later.
+The link between brothers John and Hugh Bone to father Thomas Bone and other family members is supported by a letter written by Hugh Bone's grandson to a cousin c. 1885. In this letter he gives account of the children of Thomas Bone and some of their descendants to the cousin researching the family tree. See Transcription later. Hugh is also listed as bondsman on a marriage certificate for John Bone and later Hugh is a witness the the pension application for his brother John.
 
 ==== Other Bones
+The other *John Bone* in these Madison County records shows up in tax records by 1794 or 1795 and owned 200 acres of land between the waters of Silver Creek and Paint Lick Creek. This was purchased from Green Clay in 1795. This John Bone sold the property in two halves. The first half was sold to Daniel Tuder in 1798 and the last half to Bloomer Tuder in 1801. It is possible, seeing how the tax records list this 200 acres split into two 100 acres for a John and William Bone, that this property was shared between the two. This could mean William was a son or other close relative to this John. Even though at times part of the property is listed with William Bone, the property eventually sold under the name of John Bone. This John Bone's property, as well as I can tell from mapping out numerous land records from original surveys and deeds, is about 2.5 to 3 miles west of the other John Bone's property. With available records and relying on Dr. Bone's publication, I think this could be John Bone from Chart A referred to as John C. Bone (1745-1805, A4 ). The William associated with him could be son William Bone (A41). Supporting this is the witness of a William Bone and Agness Bone to a will in 1800. William (A41) son of John C. (A4) is supposed to have married Agnes McGuire in 1793 in the county.
 
-The other John Bone in these Madison County records shows up in tax records by 1794 or 1795 and owned 200 acres of land between the waters of Silver Creek and Paint Lick Creek. This was purchased from Green Clay in 1795. This John Bone sold the property in two halves. The first half was sold to Daniel Tuder in 1798 and the last half to Bloomer Tuder in 1801. It is possible, seeing how the tax records list this 200 acres split into two 100 acres for a John and William Bone, that this property was shared between the two. This could mean William was a son or other close relative to this John. Even though at times part of the property is listed with William Bone, the property eventually sold under the name of John Bone. This John Bone's property, as well as I can tell from mapping out numerous land records from original surveys and deeds, is about 2.5 to 3 miles west of the other John Bone's property. With available records and relying on Dr. Bone's publication, I think this could be John Bone from Chart A referred to as John C. Bone (1745-1805, A4 ). The William associated with him could be son William Bone (A41). Supporting this is the witness of a William Bone and Agness Bone to a will in 1800. William #A41 son of John C. #A4 is supposed to have married Agnes McGuire in 1793 in the county.
+Also, this John Bone could be an uncle or older cousin to John Bone (1762-1842, H1) who married Jane Hill and later Catherine Adams. John (H1), the brother of Hugh Bone (H2) and son of Thomas Bone (H) is listed once as John Bone Jr. while the other is listed twice in tax records as John Bone Sr. The senior and junior titles may have only been applied to distinguish an older from younger person by the same name in a nearby location. It should not be assumed that the suffix Senior means the person had a child by the same name or that Junior means the subject had a father of the same name. During this period the titles could be used without any kinship implied.
 
-Also, this John Bone could be an uncle or older cousin to John Bone (1762-1842, #H1 ) who married Jane Hill and Catherine Adams. John (H1), the brother of Hugh Bone (H2) and son of Thomas Bone (H) is listed once as John Bone Jr. while the other is listed twice in tax records as John Bone Sr. The senior and junior titles may have only been applied to distinguish an older from younger person by the same name in a nearby location. It should not be assumed that the suffix Senior means the person had a child by the same name or that Junior means the subject had a father of the same name. During this period the titles could be used without any kinship implied.
-
-Since John Bone's (H1) uncle John A. Bone Sr. (E of Chart E) is reported to have died c. 1787, he is unlikely this John Bone in Madison County. His 2nd cousin John C. Bone (A4) at this time is the best fit. His departure from the Madison County records in 1801 fits with the genealogies of others.
+Since (H1) John Bone's uncle John A. Bone Sr. (E of Chart E) is reported to have died c. 1787, he is unlikely this John Bone in Madison County. His 2nd cousin John C. Bone (A4) at this time is the best fit. His departure from the Madison County records in 1801 fits with the genealogies of others.
 
 Regarding the William Bone in these records, there is a high possibility it being John C. Bone's (A4) son William (A41). John C. Bone has been reported to have a brother William, but no significant data is available. William is physically immediately adjacent to John Bone's property.
 
-**Thomas Bone** in these records, without additional data is harder to place in the family tree. He might be John Bone's father, Thomas (H) or John's brother Thomas Bone Jr (H4). Also, there may be more than one Thomas Bone in these records. My sence at this time is most of these records naming Thomas are likely Thomas Bone (H4), brother of John and Hugh Bone. Thomas in the following records is at times listed as Thomas Bone Sr. The genealogies and histories pertaining to Thomas Bone (#H) are sparse with detail and convincing surviving sources for the various locations and times for some of these families. Thomas [#H1] has been reported to have died circa 1796. Since Madison County, Kentucky records have been a large blind spot for Bone researchers, it shouldn't be discounted that Thomas Bone Sr. (#H) might have lived past 1796 and his place of death has never been known. There seem to be few other candidates for Thomas Sr. in the immediate family of John Bone (H1) and John Bone (A4). John (#H1) would not be an uncle since his father is named Thomas. John's son Thomas would be too young. Thomas if not John's father then is likely a cousin. Thomas Bone appears in the Madison County records by 1794 as a witness to a will along with a John Bone. Thomas is listed without a suffix in 1795, 1796 and 1797. In 1799, 1801 and 1802 a Thomas is listed as Thomas Bone Sr. In 1802 Thomas Bone Jr. shows up in the tax list and Abner Bone the same year. The Thomas Bone Jr., might be Thomas Bone (#H4) son of Thomas Bone (#H). Looking at the ages of these individuals and their children, along with the enumerations in tax and census records, I believe support the above consideration.
+**Thomas Bone** in these records, without additional data is harder to place in the family tree. Possibilities include John Bone's father Thomas (H) and John's brother Thomas Bone Jr (H4). There is more than one Thomas Bone in these records so both might be represented.
+
+In Dr. Bone's history, Thomas Bone (H) is listed as possibly dying around 1796 and possibly in TN or NC. However, there is no record found so far in any state that suggest this. It is true that Thomas Bone of Iredell, NC, sells all his land in 1794 in two halves. There seem to be erroneous statements in the history that Thomas kept some of his original land but that is contradicted by the deed records. There is a statement in the history that a son-in-law sold the last of his land in 1796, suggesting Thomas had moved or died. I don't find any record of this either. The 1794 deeds of sale are later proved in court in 1795 and 1796 but the sale date is 1794 by Thomas. I think some have confused the proving of the deeds in court with additional land sales. Dr. Bone includes statements from family that claim Thomas died in TN and others saying he undoubtedly died in NC. Unless other evidence is found, I think it is as likely that Thomas moved to Kentucky like his two oldest sons and could have died there. Consider that Thomas sold his property in Iredell, NC, in 1794 and is not found in records thereafter. Then in 1795 a Thomas Bone is in Madison County, KY, as are his oldest sons Hugh and John. One Thomas there is even recorded as Thomas Bone Sr. Thomas' son Thomas Bone (H4) would have been old enough in 1795 to be listed in records. The Madison County, KY, records of Thomas Bone might refer to both father and son, since we don't know when Thomas the father died or what year Thomas the son could have moved to Kentucky.
+
+ Since Madison County, Kentucky, records have been a large blind spot for Bone researchers, it shouldn't be discounted that Thomas Bone Senior (H) might have lived past 1796 to circa 1800. His place of death remains unknown. There seem to be few other candidates for man listed as Thomas Sr. in the immediate family of John Bone (H1) and John Bone (A4). John's (H1) son Thomas would be too young for these records. Thomas Sr. if not John's father then is likely a cousin. Thomas Bone appears in the Madison County records by 1794 as a witness to a will along with a John Bone. Thomas is listed without a suffix in 1795, 1796 and 1797. In 1799, 1801 and 1802 a Thomas is listed as Thomas Bone Sr. In 1802 Thomas Bone Jr. shows up in the tax list and Abner Bone the same year. The Thomas Bone Jr., might be Thomas Bone (H4) son of Thomas Bone (H). Hugh Bone, Abner Bone and the Thomas Bone listed as Senior disappear from the Madison County records after 1802. If Thomas Senior is the father (H1), this could indicate he died in Kentucky about 1802. Looking at the ages of these individuals and their children or household dependents, along with the enumerations in tax and census records, I believe support the above consideration.
 
 === Bone Family Tree 1
 
-[ditaa,images/bone-tree-1]
+[ditaa,bone-tree-1]
 ....
 
       +------------------------------------------------------------------+
@@ -143,6 +147,8 @@ There are records from Madison County Circuit Session Court cases that I have ye
 [[madison]]
 === The Records
 
+
+
 ---
 ==== 1765 John Bone moved to North Carolina
 From John Bone's statement on pension application from Muhlenberg County, Kentucky, on July 30th 1832
@@ -159,7 +165,7 @@ and in the year 1785 removed to the western Country & settled in East Tennesse w
 
 ---
 ==== 1789 Madison County Tax Lists - Michael McNeely District
-
+{H1}
 [%autowidth]
 .Tax record: WMT white male tithes, B Total blacks H Horses Mares etc.
 |=======
@@ -171,6 +177,7 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-2X51?i=88&cat=156105[View 
 
 ---
 ==== 1790 Madison County Tax Lists - John Pitman District
+{H1}
 [%autowidth]
 .Tax record, WT white tithes, B: Total blacks H:Horses Mares etc.
 |=======
@@ -183,10 +190,14 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-2N4L?i=100&cat=156105[View
 
 ---
 ==== 1791 Madison County Tax Lists
+{H1}
+
 There may be one or more missing districts from the records for Madison County 1791 microfilm records at FamilySearch.org
 
 ---
 ==== 1792 Madison County Tax Lists - Middle District
+{H1}
+
 [%autowidth]
 |=======
 |Date|Person|WM>21|WM16-21|B|B<16|H|C|Acres
@@ -198,6 +209,7 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-2XYD?i=146&cat=156105[View
 
 ---
 ==== 1793 Madison County Tax Lists - Middle District
+{H1}
 [%autowidth]
 |=======
 |Date|Person|WM>21|WM 16-21|B|B<16|H|C|Acres
@@ -209,6 +221,7 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-2X5W?i=159&cat=156105[View
 
 ---
 ==== 1794 John Bone regarding estate of James Jones
+{H1}
 
 .Court Order Book B, Pg. 205, 1794-05-06
 Ordered that **John Bone**, Boud Estill, Charles Reynolds & Thomas Jones Sen^r^ or any three of them being first sworn do Inventory and Appraise the Personal estate and Slaves if any late the Property of James Jones dec^d^ and that the Administrator return a list thereof to the Court
@@ -233,11 +246,12 @@ The last will and Testament of Nathan Hawkins[^note-hawkins-1] deceased proved b
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PK-69RC-F?i=564&cat=434376[View record at FamilySearch.org]
 
 [NOTE]
-Research note: John Bone owned land immediately adjacent to Hawkins families purchased from earlier land owners.
+Research note: John Bone owned land immediately adjacent to Hawkins families purchased from earlier land owners. The Thomas Bone might be Thomas Bone Sr. the father of John and Hugh Bone et al or might be the brother of John and Hugh Bone.
 
 
 ---
 ==== 1795 Joseph Kennedy to Hugh Bone - Deed 100 Acres
+{H2}
 
 .Deed Book C, Pg. 663-664, 1795-02-02
 [margin note] Kennedy to Bone
@@ -260,7 +274,7 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKH-7S6G-C?i=344&cat=433686[Vi
 
 ---
 ==== 1795 Madison County Militia
-**1795-05-20**
+*1795-05-20*
 
 .The Corn Stalk Militia of Kentucky, 1792-1800 by G. Glenn Clift
 pg. 21: Bone, John Captain 19th Regiment May 20, 1795
@@ -270,6 +284,8 @@ pg. 21: Bone, John Captain 19th Regiment May 20, 1795
 
 ---
 ==== 1795 Madison County Tax Lists
+{H1}{A4}
+
 [%autowidth]
 |=======
 |Date|Owner|Cty|Water|Acres|1s|2d|3d|paid|1792|1793|1794
@@ -287,6 +303,9 @@ pg. 21: Bone, John Captain 19th Regiment May 20, 1795
 B: Total blacks H:Horses Mares etc. C:Cattle
 
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-2NX2?i=255&cat=156105[View record at FamilySearch.org]
+
+[NOTE]
+Thomas Bone may be the father of John Bone and Hugh Bone et al. The 16-21 male migh be a younger son.
 
 ---
 ==== 1795 Green Clay to John Bone - Deed 200 Acres
@@ -360,6 +379,8 @@ Ent: name entered, Sur: name surveyed, Pat: named patented, B: total blacks H: h
 
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-2X1K?i=267&cat=156105[View record at FamilySearch.org]
 
+[NOTE]
+Thomas Bone may be the father of John and Hugh Bone. The second male in his house may be one of the younger son Thomas Bone Jr.
 
 ---
 ==== 1796 William Bone deed recorded
@@ -440,10 +461,11 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4X-RBR5?i=335&cat=433686[View
 Regarding this plot of land, I would consider this the home place for John Bone (1762 PA - 1842 KY) while in Madison, Kentucky. The exact location is complicated by the accuracy of the original surveys and the significant amount of conflicting land ownership. There is overlap of Robert Adams original 500 acres with surveys belonging to others including a 1400 acres survey for William Mayo who sold his land to Green Clay, a 500 acre survey for John Bryant and 1025 acre survey for William Robinson. There are entries in court cases and survey records recording these land interferences. While I don't have all court case files showing the outcome of the litigation, it appears from my review of the surveys and deeds that this holding was significantly paired down over the years with area lost to competing claims. It is possible John Bone lost most of his original purchase by 1810 to plaintiffs. This may have factored into his move from Madison County to Muhlenberg County. This link shows the approximate location of John Bone's property https://www.google.com/maps/place/37°42'28.4%22N+84°23'04.4%22W/@37.707875,-84.3867467,17z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d37.7078753!4d-84.3845576[link to location in Google maps]
 
 This is the plat included in the Kentucky Secretary of State's record for the grant to Robert Adams under Old Virginia patent number 2368. This is the appearance prior to reductions from competing claims. There also appear to be inaccuracies regarding its position relative to the course of Silver Creek at its North edge.
-image:images/survey_adams_va2368.png[Image from survey,75%,pdfwidth="75%"]
+image:survey_adams_va2368.png[Image from survey,75%,pdfwidth="75%"]
 
 ---
 ==== 1797 John Bone deed from Adams proved by Thomas Bone
+{H1}
 
 .Order Book B, Pg. 471, 1797-11-07 Entry
 [Page] 471
@@ -455,6 +477,7 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PK-6952-B?i=689&cat=434376[Vi
 
 ---
 ==== 1797 John Bone to Bowdy Estill - 47.75 Acres
+{H1}
 
 .Deed Book D, Pg. 349, 1797-11-7
 [page] 349
@@ -475,6 +498,7 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4X-R18D?i=193&cat=433686[View
 
 ---
 ==== 1797 Court Order Entry
+{H1}
 
 .Order Book B, Pg. 479, 1797-12-05
 [Page] 479
@@ -511,6 +535,7 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PK-6952-M?i=714&cat=434376[Vi
 
 ---
 ==== 1798 John Bone marriage to Jane Hill
+{H1} {H2}
 
 .Madison County Marriages, 1798-10-02
 Know all men by these presents that **John Bone** & **Hugh Bone** are held and firmly bound unto James Garrard Esq. in the Just and full sum of fifty pounds to which ? will well and truly to be made the the said ... heir Exors and Admins firmly by these presents sealed and Dated this this 2^nd^ day of Oct 1798
@@ -523,7 +548,7 @@ The condition of the above bound **John Boen** & **Jane Hill** both of Madison C
 --
 \[back] Bone to Governor } Bond P^d
 
-image::images/bone_john-sig-mar-1798.jpg[John Bone signature,50%,pdfwidth="50%"]
+image::bone_john-sig-mar-1798.jpg[John Bone signature,50%,pdfwidth="50%"]
 
 https://www.familysearch.org/ark:/61903/3:1:9398-3G97-49?i=39&cc=1804888[View document at FamilySearch.org]
 
@@ -592,8 +617,7 @@ To the Sheriff of Madison county, greeting:
 YOU are hereby commanded that of the estate of **Tho^s^ Bone**, Ja^s^ Hill, And^w^ Kennedy & **W^m^ Bone** appearances[?] late of your bailiwick, you cause to be made the sum of eight pounds which late in our court of quarter-sessions for the county of Madison was adjudged to Hugh Hagan for his Debt also one pound nineteen Shillings and six pence for his costs in this behalf expended whereof the said **Thomas Bone** & All is convict, as appears to us of record, and that you have the same before the justices of our said court at the court-house on the first Wednesday after the first Tuesday of March next to render to the said Hugh Hagan his Debt afs^d^ and have then there this writ. --- Witness WILLIAM IRVINE, clerk of our said court at the court-house the 28 day of December 1798 and in the 7^th^ year of the commonwealth.
 Will Irvine
 
-\[back]
-Hagan vs Bone & All } Fifa
+[back] Hagan vs Bone & All } Fifa
 To March 1799
 N^o^ 2
 Rec^d^ this Exon the 28 of December at \[???] Ja^s^ Anderson \[?]
@@ -617,6 +641,8 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PK-69RS-W?i=732&cat=434376[Vi
 
 ---
 ==== 1799 Madison County Tax Lists - Lower District
+{H1}{H2}
+
 [%autowidth]
 |=====
 |Date|Name| WT |WT 16-21|B >16| B | H
@@ -629,6 +655,8 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PK-69RS-W?i=732&cat=434376[Vi
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-2X5P?i=433&cat=156105[View record at FamilySearch]
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-2NW9?i=434&cat=156105[View record at FamilySearch]
 
+[NOTE]
+This Thomas Bone Sr. may be the father of John and Hugh Bone and siblings including Thomas Bone Jr.
 
 ---
 ==== 1799 John Bone commissioner to Gyer estate
@@ -648,6 +676,7 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PK-69R8-K?i=745&cat=434376[Vi
 
 ---
 ==== 1799 John Bone deed from Adams proved
+{H1}
 
 .Court Oder Book B, Pg. 589, 1799-08-06
 An Indenture of Bargain and Sale Between *Robert Adams* of the one part and **John Bone** of the Other part was fully proved to be the act and Deed of the said Robert by the Oath of John Allcorn a witness thereto and Ordered to be Recorded
@@ -674,7 +703,7 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PK-69TS-1?i=749&cat=434376[Vi
 ==== 1799 William Bone to survey road
 
 .Court Order Book B, Pg. 609, 1799-11-05
-A report of a road from Caldwells Mill to Goggins's Ferry being returned and Examined was Ordered to be established accordingly. And It is Ordered that Leven Cole be appointed Surveyor from said Mill to where it Intersects the ridge Road And William Bone from thence to said Ferry and Robert Caldwell Gentleman is appointed and Desired to allot the the [sic] hands to work under the said Overseers and return a list thereof to the Court
+A report of a road from Caldwells Mill to Goggins's Ferry being returned and Examined was Ordered to be established accordingly. And It is Ordered that Leven Cole be appointed Surveyor from said Mill to where it Intersects the ridge Road And *William Bone* from thence to said Ferry and Robert Caldwell Gentleman is appointed and Desired to allot the the [sic] hands to work under the said Overseers and return a list thereof to the Court
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PK-695P-8?i=757&cat=434376[View record at FamilySearch.org]
 
 
@@ -682,7 +711,7 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PK-695P-8?i=757&cat=434376[Vi
 ==== 1800 John Bone summons for proposed road
 
 .Court Order Book B, Pg. 632, 1800-03-03
-Ordered that the Sheriff Summon John Bone Nicholas Hawkins John Anderson Isaac Anderson and Joseph & Andrew Kennedy to Shew cause if any they can why a road Should not be Opened through their lands from Caldwells mill to paint lick[^note-road-1]
+Ordered that the Sheriff Summon *John Bone* Nicholas Hawkins John Anderson Isaac Anderson and Joseph & Andrew Kennedy to Shew cause if any they can why a road Should not be Opened through their lands from Caldwells mill to paint lick[^note-road-1]
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PK-69R4-9?i=769&cat=434376[View record at FamilySearch.org]
 
 [^note-road-1]: A line drawn through these property owners lands forms a nearly due South line from John Bone's original 300 acres toward Paint Lick, Kentucky.
@@ -706,7 +735,7 @@ Leven Cole, William Bone }
 Agness x Bone her mark }
 
 At a Court held for Madison County on Monday the first day of December 1801
-This Indenture was proved to be the act and deed of Nicholas Jasper by the oath of William Bone a witness thereto And at an another Court held for the said County on Monday the first day of June 1801 The Said Indenture was fully proved by the oath of Agness Bone and Leven Cole ...
+This Indenture was proved to be the act and deed of Nicholas Jasper by the oath of *William Bone* a witness thereto And at an another Court held for the said County on Monday the first day of June 1801 The Said Indenture was fully proved by the oath of *Agness Bone* and Leven Cole ...
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKH-QCDP?i=112&cat=433686[View record at FamilySearch.org]
 
 [NOTE]
@@ -715,10 +744,12 @@ Research Note: This William Bone, and in other records collected here, may be th
 
 ---
 ==== 1800 Madison County Tax Lists
+{H1}{H2}
+
 [%autowidth]
 |=====
 |Date|Name|Acres|County|Watercourse| Ent | W >21|W 16-12|B>16| B | H
-|June | Bone William | 100 [3] | \[Madison] | [Silver Creek] | Green Clay | 1 | 3 | - | - | 4
+|June | Bone William | 100 [3] | [Madison] | [Silver Creek] | Green Clay | 1 | 3 | - | - | 4
 | "   | Bone Hugh    | 100 [2] | \[Madison] |\[Paint Lick]   | John Kennedy |1 |- |- |- |3
 |Septr | Bone John | 250 [2] | Madison | Silver C | John Kenned [R.Adams] | 1 | - | 3 | 9 | 3
 |=====
@@ -740,8 +771,8 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PK-695P-5?i=777&cat=434376[Vi
 |=====
 |Date|Name|Acres|Watercourse|County|Ent|WT >21|WT 16-12|B >16|B|H
 |Mar 8 | Bone William | - | - | - | - | - | - | - | - | -
-| Bone Hugh | 100 [2] | Paint Lick Cr | [Madison] | Joseph Kennedy | 1 | - | - | - | 3
-| Bone Thomas Sen^r^ | 80 [2] | do | do | do | 1 | 1 | - | - | 2
+| - | Bone Hugh | 100 [2] | Paint Lick Cr | \[Madison] | Joseph Kennedy | 1 | - | - | - | 3
+| - | Bone Thomas Sen^r^ | 80 [2] | do | do | do | 1 | 1 | - | - | 2
 |=====
 
 
@@ -753,7 +784,7 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-2FYX?i=600&cat=156105[View
 .Deed Bk E:305-306, 1801-08-21
 [page] 305
 [margin note] Bone to Tuder
-This Indenture made this 21^st^ day of August anno Domini one thousand eight hundred and one between John Bone of the County of Madison and State of Kentucky of the one part and Bloomer Tuder of the same County and State aforesaid of the Other part Witnesseth that the said John Bone for and in Consideration of the sum of twenty pound current money of said State to him in hand paid the receipt whereof he doth firmly acknowledge hath Granted Bargained and sold and by these presents do Grant Bargain and sell unto the said Blumer Tuder his heirs and assigns forever a Certain tract or parcel of land Containing ninety seven acres lying and being in the County aforesaid on the waters of silver Creek and bounded as follows, to wit, Beginning at a sugar tree on the east side of the road leading to Gogens[?] Ferry near the road thence N 15° E 8 poles to a beech thence sixteen poles to a white walnut on Travis Millions line thence with that line twelve poles to a Bucki thence N 88°E 56 poles to an ash thence N 15° E twenty poles to a shoogar tree thence North 85° E fifty six poles to a large poplar and sugar tree thence S 68° E 90 poles to a sugar tree on Green Clays line with it S 26° W 84 poles to a Spanish oak beech and white oak thence to an elm at the woolf pen 50 poles then to an alorn[?] and shoogar tree on the east side of the road thence with the road to the Beginning to have and to hold the said tract or parcel of land with its appurtenances to the said Blumer Tuder his heirs and assigns forver and the said John Bone for himself his heirs Exectors and adm'rs do warrant and forever defend the said tract or parcel of land with
+This Indenture made this 21^st^ day of August anno Domini one thousand eight hundred and one between *John Bone* of the County of Madison and State of Kentucky of the one part and Bloomer Tuder of the same County and State aforesaid of the Other part Witnesseth that the said *John Bone* for and in Consideration of the sum of twenty pound current money of said State to him in hand paid the receipt whereof he doth firmly acknowledge hath Granted Bargained and sold and by these presents do Grant Bargain and sell unto the said Blumer Tuder his heirs and assigns forever a Certain tract or parcel of land Containing ninety seven acres lying and being in the County aforesaid on the waters of silver Creek and bounded as follows, to wit, Beginning at a sugar tree on the east side of the road leading to Gogens[?] Ferry near the road thence N 15° E 8 poles to a beech thence sixteen poles to a white walnut on Travis Millions line thence with that line twelve poles to a Bucki thence N 88°E 56 poles to an ash thence N 15° E twenty poles to a shoogar tree thence North 85° E fifty six poles to a large poplar and sugar tree thence S 68° E 90 poles to a sugar tree on Green Clays line with it S 26° W 84 poles to a Spanish oak beech and white oak thence to an elm at the woolf pen 50 poles then to an alorn[?] and shoogar tree on the east side of the road thence with the road to the Beginning to have and to hold the said tract or parcel of land with its appurtenances to the said Blumer Tuder his heirs and assigns forver and the said John Bone for himself his heirs Exectors and adm'rs do warrant and forever defend the said tract or parcel of land with
 
 [page] 306
 its appurtenances to the said Bloomer Tuder his heirs and assigns against all and every person or persons whatever In testimony whereof I have hereunto set my hand and seal the day and year ifrst above written
@@ -784,20 +815,22 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKH-QCQT?i=177&cat=433686[View
 |Ap^l^ 13|Bone Hugh|100(2)|P.L.|Madison|Jn^o^ Kennedy|same|same|1|-|-|-|3
 | ' |Bone Thomas Sen^r|80(2)|do|do|do|do|do|1|-|-|-|1
 | ' |Bone Abner|-|-|-|-|-|-|1|-|-|-|1
-|May 6|Bone Thomas Jun^r^|-|-|-|-|-|-|1|-|-|1|3|-|-
-| ' |Bone John|250(2)|Silver|Madison|Rob^t^ Adams|same|same|1|-|3|9|5|?|?
+|May 6|Bone Thomas Jun^r^|-|-|-|-|-|-|1|-|-|1|3
+| ' |Bone John|250(2)|Silver|Madison|Rob^t^ Adams|same|same|1|-|3|9|5|\?|\?
 |=====
 
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-2F5L?i=687&cat=156105[View record at FamilySearch] Hugh Bone, Thomas Bone Sr, and Abner Bone
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-2XJC?i=688&cat=156105[View record at FamilySearch] Thomas Bone Jr and John Bone
 
+[NOTE]
+Thomas Bone Sr. here may be father of John, Hugh, Thomas and Abner Bone. Many genealogies have Thomas Sr. death in 1796 but there are no supporting records. Thomas Bone Sr. is last known to be in Iredell County, NC, in August 1794 when he sells the last piece of his tract of land on Rocky Creek. Later in 1794 a Thomas Bone shows up in these Madison County, KY, records.
 
 ---
 ==== John Bone witness to will of neighbor William Robinson
 .Court Order Book C, Pg. 124-125, 1802-07-05
 The last Will and Testament of William Roberts Dec^d^ was proved by the Oath of John Bone and John Boyle two witnesses thereto and Ordered to be Recorded. And on the Motion of William & Peyton Robinson two of the Executors therein Named who made oath as the law directs A Certificate is Granted them for Obtaining a probate thereof In due form on their entering into bond, whereupon they Together with James Anderson and Robert Porter their securities
 [page] 125
-entered into and Acknowledged their Bond in the Penalty of four thousand pounds Condition'd as the law directs And It is ordered that John Bone Bazil Maxwell James Stephenson and William Morrison or any three of them who being first sworn do Inventory and appraise the personal estae and Slaves if any late the Property of the said Decedant and that the Executors return a list thereof to the Court
+entered into and Acknowledged their Bond in the Penalty of four thousand pounds Condition'd as the law directs And It is ordered that John Bone Bazil Maxwell James Stephenson and William Morrison or any three of them who being first sworn do Inventory and appraise the personal estate and Slaves if any late the Property of the said Decedant and that the Executors return a list thereof to the Court
 
 
 ==== 1802 Hugh and Mary Bone to Andrew Province 1802
@@ -939,7 +972,7 @@ The land in dispute Beginning at 2. thence down Silver Creek to 10 - 11 - 12 - 1
 The corner at 2. at the mouth of a small branch on the west side of Silver Creek I found two Hickorys two Locusts and a white oak as called for in the pltffs patent the black oak and buckeye which was also called for not found which said corner was shewed to me by Thomas Townsend one of the chain carriers for a corner of the afores^d^ plaintiffs Survey and agrees with the patent call.
 John Crooke S.M.
 
-image:images/ky_mad_srvy_c_24.png[Plat from page,75%,pdfwidth="75%"]
+image:ky_mad_srvy_c_24.png[Plat from page,75%,pdfwidth="75%"]
 
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4K-2TM7?i=167&cat=429443[View record in FamilySearch.org]
 
@@ -948,27 +981,30 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4K-2TM7?i=167&cat=429443[View
 
 .Deed Bk G:442-445, 1810-02-20
 [margin note] Bone to Robinson
-This Indenture made this twentieth day of February in the year of our Lord eighteen hundred and ten between John Bone and Catharine Bone his wife of the one part and William Robinson of the other part all of the County of Madison and State of Kentucky Witnesseth that the said John Bone and Catharine Bone his wife for and in consideration of the sum of two hundred and twenty dollars to them in hand paid the receipt whereof they do hereby acknowledge and themselves therewith fully Satisfyed and paid - hath given granted bargained sold aliened released and confirmed and by these presents doth give grant Bargain and sell alien release enfeoff and confirm unto the said William Robinson his heirs and assigns forever a certain tract or parcel of land containing by Survey forty five acres situate lying and being in the County aforesaid on Silver creek and bounded as follows ,to wit, Beginning at a rock corner to said William Robinson on the South side of said creek nearly opposite the mouth of a small branch some east of south of said Bones dwelling house thence up said creek with its meanders N fifty one degrees West Sixty two poles & eighty six degrees West thirty nine poles South twenty degrees West forty nine poles South six
+This Indenture made this twentieth day of February in the year of our Lord eighteen hundred and ten between *John Bone and Catharine Bone his wife* of the one part and William Robinson of the other part all of the County of Madison and State of Kentucky Witnesseth that the said John Bone and Catharine Bone his wife for and in consideration of the sum of two hundred and twenty dollars to them in hand paid the receipt whereof they do hereby acknowledge and themselves therewith fully Satisfyed and paid - hath given granted bargained sold aliened released and confirmed and by these presents doth give grant Bargain and sell alien release enfeoff and confirm unto the said William Robinson his heirs and assigns forever a certain tract or parcel of land containing by Survey forty five acres situate lying and being in the County aforesaid on Silver creek and bounded as follows ,to wit, Beginning at a rock corner to said William Robinson on the South side of said creek nearly opposite the mouth of a small branch some east of south of said Bones dwelling house thence up said creek with its meanders N fifty one degrees West Sixty two poles & eighty six degrees West thirty nine poles South twenty degrees West forty nine poles South six
 
 [page] 443
 degrees West forty poles and South thirty west fourteen poles to a Second corner of said Robinson thence with his line North eighty degrees East crossing s'd creek one hundred and twenty four poles to a rock in the bank of the aforesaid branch corner also to said William Robinson thence North thirty two degrees West twenty three poles to an Iron Wood another corner of said William Robinsons thence North Seventeen Degrees East crossing s'd Creek Seventeen poles to the Beginning - together with all and singular the appurtenances thereunto belonging or in any wise appurtaining - To have and to hold to him the said William Robinson his heirs and assigns forever be the quantity of land in said boundary more or less and the said John Bone and Catharine Bone his wife for themselves and their heirs do and shall and will warrant and by these presents forever defend the title of the aforesaid boundary of land and premises against the claim or Claims of all and ever person or persons whatsoever that shall or may hereafter claim the same unto the said William Robinson his heirs and assigns forever In testimony whereof we have hereunto set our hands and affixed our seals the day and year above mentioned -
 [.float-group]
 --
 [.right]
-Jn'o Bone (seal)
-Catharine Bone (seal)
+*Jn'o Bone* (seal)
+*Catharine Bone* (seal)
 --
 Signed Sealed and deliv'd In presence of
-Thomas Bone
+*Thomas Bone*
 Richard Collins
 Payton Robinson
 
 State of Kentucky Madison County} Sct
-I do hereby Certify that this Indenture was produced to me as clerk of the Court for the county aforesaid on the 4'th day of August 1810 which was acknowledged by John Bone and Catherine Bone his wife to be their act deed having privately examined her the said Catharine as the law directs she relinquished her right of dower to the within mentioned tract of land and the same has been duly recorded in my office
+I do hereby Certify that this Indenture was produced to me as clerk of the Court for the county aforesaid on the 4'th day of August 1810 which was acknowledged by *John Bone* and *Catherine Bone* his wife to be their act deed having privately examined her the said Catharine as the law directs she relinquished her right of dower to the within mentioned tract of land and the same has been duly recorded in my office
 Atteste Will Irvine CMCC
 \[margin note] Exam'd & Delivered
 
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS42-FQXV-F?i=624&cat=433686[View record in FamilySearch.org]
+
+[NOTE]
+Who is the Thomas Bone witness to this deed. John (H1) and Hugh (H2) Bone had children named Thomas but, even by 1810, they would have been to young to be a witness. Is it possible John's brother Thomas Bone was still in the area or had returned?
 
 ---
 ==== 1810 John Bone Madison County KY Federal Census
